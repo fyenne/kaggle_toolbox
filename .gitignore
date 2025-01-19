@@ -1,0 +1,7 @@
+pgs51/datadown/*
+pgs51/dataup/*
+pgs51/models/*
+# pgs51/dataup/*
+/catboost_info/
+*.pyc
+.DS_Store
