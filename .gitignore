@@ -6,3 +6,5 @@ pgs51/models/*
 *.pyc
 .DS_Store
 *.csv
+pgs51/catboost_info/*
+pgs51/logs
