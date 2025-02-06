@@ -8,3 +8,4 @@ pgs51/models/*
 *.csv
 pgs51/catboost_info/*
 pgs51/logs
+CIBMTR - Equity in post-HCT Survival Predictions/submission/catboost_info/
